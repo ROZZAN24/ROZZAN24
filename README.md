@@ -1,20 +1,3 @@
-The image recommends a structure for a **premium GitHub profile README**:
-
-* Intro Section (Hi, I'm Your Name)
-* Typing Animation Banner
-* About Me
-* Portfolio + LinkedIn Badges
-* Tech Stack Icons
-* Current Projects
-* GitHub Stats Cards
-* Tools Section
-* Contribution Graph
-* Visitor Badge
-
-Since I already know some of your background (BE CSE Final Year at Kamaraj College of Engineering and Technology, Flutter App Developer, SkillStreak, Format IQ, Autonoma BOS internship, District Top 11 in Tamil Nadu Nimirndhu Nil Competition), here's a premium README structure tailored for you.
-
----
-
 # 👋 Hi, I'm Roshan S
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Flutter+App+Developer;Full+Stack+Developer;UI%2FUX+Enthusiast;Problem+Solver;Open+Source+Learner" />
@@ -41,8 +24,6 @@ Kamaraj College of Engineering and Technology
 Current Focus:
 Flutter
 Dart
-Spring Boot
-React
 SQL
 REST APIs
 
@@ -82,17 +63,15 @@ Become a Professional Mobile Application Developer
 
 ### Languages
 
-Flutter • Dart • Java • JavaScript • HTML • CSS • SQL
+Flutter • Dart • Java • Bootstrap CSS • HTML • CSS • SQL
 
 ### Frameworks
 
 Flutter
 
-React
-
 Spring Boot
 
-Node.js
+Express.js
 
 ### Database
 
@@ -114,7 +93,7 @@ VS Code
 
 Figma
 
-Postman
+Antigravity
 
 Docker
 
@@ -146,7 +125,7 @@ Professional document formatting and productivity solution.
 
 ---
 
-## 🏢 Autonoma BOS
+## 🏢 Smart ERP System
 
 Business Operating System
 
@@ -157,20 +136,6 @@ Worked on
 * Attendance
 * Meeting Module
 * Mobile Application Development
-
----
-
-## 📱 GTA Shop
-
-E-Commerce Mobile Application
-
-Features
-
-* Cart
-* Wishlist
-* Product Search
-* Authentication
-* Provider State Management
 
 ---
 
@@ -231,7 +196,6 @@ Profile Summary
 * GitHub
 * Figma
 * Docker
-* Postman
 * SQL Server
 * MySQL
 
